@@ -1,0 +1,148 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "10inch 0.8 curling tips locs",
+        "price": 48.93,
+        "image": { "fields": { "file": { "url": "./img/curling-tips/10-inch-brown.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "10 inch Black locs",
+        "price": 48.93,
+        "image": { "fields": { "file": { "url": "./img/curling-tips/10inch-black.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "8inches Red locs",
+        "price": 48.93,
+        "image": { "fields": { "file": { "url": "./img/curling-tips/8inch-red.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "10inches White.",
+        "price": 48.93,
+        "image": { "fields": { "file": { "url": "./img/curling-tips/10-inch-white.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Pale Pink 8inch 1.0thick",
+        "price": 16.71,
+        "image": { "fields": { "file": { "url": "./img/curling-tips/pale-pink.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "4inches 0.8thick Locs",
+        "price": 20.89,
+        "image": { "fields": { "file": { "url": "./img/product-1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "6inch 0.8thickness 10strands/bundle",
+        "price": 40.49,
+        "image": { "fields": { "file": { "url": "./img/product-2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "10inches 0.6thick locs",
+        "price": 44.05,
+        "image": { "fields": { "file": { "url": "./img/product-3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "12inches 0.8thick locs",
+        "price": 44.05,
+        "image": { "fields": { "file": { "url": "./img/product-4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "14inches 0.6thick black",
+        "price": 59.86,
+        "image": { "fields": { "file": { "url": "./img/product-5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "18inches 0.6thick locs",
+        "price": 48.93,
+        "image": { "fields": { "file": { "url": "./img/product-6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "20inches 0.6thick locs",
+        "price": 48.93,
+        "image": { "fields": { "file": { "url": "./img/product-7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "13" },
+      "fields": {
+        "title": "Afro Kinky Human hair Bright",
+        "price": 50.56,
+        "image": { "fields": { "file": { "url": "./img/product-8.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "14" },
+      "fields": {
+        "title": "12inches 0.8thick locs Black",
+        "price": 55.56,
+        "image": { "fields": { "file": { "url": "./img/product-9.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "15" },
+      "fields": {
+        "title": "Brownish 12inches 0.8thick locs",
+        "price": 50.56,
+        "image": { "fields": { "file": { "url": "./img/product-10.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "16" },
+      "fields": {
+        "title": "cream 12inches 0.8thick",
+        "price": 44.05,
+        "image": { "fields": { "file": { "url": "./img/product-11.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "16" },
+      "fields": {
+        "title": "Afro Kinky Human hair Dark",
+        "price": 44.05,
+        "image": { "fields": { "file": { "url": "./img/product-14.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "16" },
+      "fields": {
+        "title": "Luminous green Locks",
+        "price": 44.05,
+        "image": { "fields": { "file": { "url": "./img/product-15.jpg" } } }
+      }
+    }
+  ]
+}
